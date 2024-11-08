@@ -47,4 +47,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: Ognetsfan/devops_demo:latest  # Change this to your DockerHub username and image name
+          tags: xaviersp2004/devops_demo:latest  # Change this to your DockerHub username and image name
